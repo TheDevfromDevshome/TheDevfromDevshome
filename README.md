@@ -1,16 +1,66 @@
-## Hi there 👋
+<h1 align="center">Hey 👋, I'm Emil</h1>
 
-<!--
-**TheDevfromDevshome/TheDevfromDevshome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Developer from Germany 🇩🇪
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  Building Websites • Bots • Apps
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🌐 Building web applications
+- 🤖 Developing Discord bots
+- 📱 Working on app projects
+- 🐍 Coding with Python
+- ⚡ Learning something new every day
+
+---
+
+## 💻 Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,nodejs,html,css,git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TheDevfromDevshome&show_icons=true&hide_border=true" />
+</p>
+
+<p>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDevfromDevshome&layout=compact&hide_border=true" />
+</p>
+
+---
+
+## 🔨 Currently Working On
+
+- Discord Bots
+- Websites
+- Personal Projects
+
+---
+
+## 📫 Contact
+
+<p>
+  <a href="mailto:contact@engine-bot.com">
+    📧 contact@engine-bot.com
+  </a>
+</p>
+
+<p>
+  💬 Discord: <code>emilioisnotmyrealname</code>
+</p>
+---
+
+<p align="center">
+  <i>If it ain't broke, don't fix it.</i>
+</p>
