@@ -28,18 +28,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TheDevfromDevshome&show_icons=true&hide_border=true" />
-</p>
-
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDevfromDevshome&layout=compact&hide_border=true" />
-</p>
-
----
-
 ## 🔨 Currently Working On
 
 - Discord Bots
